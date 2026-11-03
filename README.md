@@ -31,3 +31,4 @@ Contact: Johan Sony | Aiming for Scuderia Ferrari Strategy Team
 
 ![Chart 1](IMG-20261103-WA2328.jpg)
 ![Chart 2](IMG-20261103-WA2327.jpg)
+![Visitor Count](https://komarev.com/ghpvc/?username=mobile-strategist&color=red)
