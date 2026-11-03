@@ -27,3 +27,7 @@ Strategic Analysis, F1 Technical Regulations 2026, Data Visualization
 
 ---
 Contact: Johan Sony | Aiming for Scuderia Ferrari Strategy Team
+### 📊 Charts
+
+![Chart 1](IMG-20261103-WA2328.jpg)
+![Chart 2](IMG-20261103-WA2327.jpg)
